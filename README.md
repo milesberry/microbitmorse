@@ -2,7 +2,7 @@
 
 More a proof of concept than anything, but here's one approach to entering text onto a [BBC micro:bit](https://www.microbit.co.uk/) using nothing more than [Morse code](https://en.wikipedia.org/wiki/Morse_code).
 
-Key in Morse using button A. To get the text displayed, hold button A and tap B.
+Key in Morse using button A. To get the text displayed, hold button B and tap A.
 
 At the moment, this only does one word at a time, and the timings are set very slow, as I'm not particulary good at Morse code! There's plenty of scope for improvement...
 
