@@ -4,7 +4,7 @@ More a proof of concept than anything, but here's one approach to entering text 
 
 Key in Morse using button A. To get the text displayed, hold button B and tap A.
 
-At the moment, this only does one word at a time, and the timings are set very slow, as I'm not particulary good at Morse code! Video [demo](https://youtu.be/Kvdbmvlx1Go) of this on YouTube. There's plenty of scope for improvement...
+At the moment, this only does one word at a time, and the timings are set very slow, as I'm not particularly good at Morse code! Video [demo](https://youtu.be/Kvdbmvlx1Go) of this on YouTube. There's plenty of scope for improvement...
 
 The was inspired by, and borrows code from the [Raspberry Pi Morse code worksheet](https://www.raspberrypi.org/learning/morse-code-virtual-radio/worksheet/).
 
