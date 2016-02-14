@@ -8,7 +8,7 @@ At the moment, this only does one word at a time, and the timings are set very s
 
 To make the device bleep connect a speaker via pin0 and GND.
 
-This was inspired by, and borrows code from the [Raspberry Pi Morse code worksheet](https://www.raspberrypi.org/learning/morse-code-virtual-radio/worksheet/).
+This was inspired by, and borrows code from, the [Raspberry Pi Morse code worksheet](https://www.raspberrypi.org/learning/morse-code-virtual-radio/worksheet/).
 
 It was built using [ntoll](https://github.com/ntoll)'s [Mu editor](https://github.com/ntoll/mu) for [BBC micro:bit micropython](https://microbit-micropython.readthedocs.org/en/latest/).
 
